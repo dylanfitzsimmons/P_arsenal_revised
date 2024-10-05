@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "90",
+        "display_name": "90",
+        "cost_multiplier": 0.85
+    },
+    {
+        "id": 2,
+        "name": "180",
+        "display_name": "180",
+        "cost_multiplier": 1
+    },
+    {
+        "id": 3,
+        "name": "270",
+        "display_name": "270",
+        "cost_multiplier": 1.15
+    },
+    {
+        "id": 4,
+        "name": "360",
+        "display_name": "360",
+        "cost_multiplier": 1.30
+    }
+]

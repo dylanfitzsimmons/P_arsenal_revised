@@ -1,0 +1,22 @@
+id,name,display_name,icon,cost_static,cost_infantry,cost_cavalry,cost_vehicle_class_1,cost_vehicle_class_2,cost_vehicle_class_3,cost_vehicle_class_4,cost_vehicle_class_5,infantry_valid,cavalry_valid,building_valid,vehicle_valid,is_defensive,display_order,warhead_cost_multiplier
+1,airborne,Airborne,,,1,1,1,2,3,5,9,1,1,,1,,1,
+2,amphibious,Amphibious,,,1,1,1,2,3,4,5,1,1,,1,,1,
+3,damage_control,Damage Control,,,,,1,2,3,4,5,,,,1,,,
+4,deforestation,Deforestation,,,,,1,2,3,4,5,,,,1,,,
+5,ecm,ECM,,5,,,,,,,,,,,1,1,,
+6,ews,EWS,,5,,,,,,,,,,,1,,,
+7,jump_jets,Jump Jets,,,1,2,3,4,6,12,18,1,1,,1,,1,
+8,armor_energy,Ablative Armor,,,,,2,3,3,3,3,,,,1,1,,
+9,armor_kinetic,KINDAM,,,,,1,2,2,2,2,,,,1,1,,
+10,armor_explosive,Reactive Armor,,,,,2,3,3,3,3,,,,1,1,,
+11,repair,Repair,,,,,1,2,3,4,5,,,,1,,,
+12,repair_team,Repair Team,,,1,,,,,,,1,,,,,1,
+13,transport,Transport,,,,,1,2,4,8,20,,,,1,,,
+14,tunneling,Tunneling,,,,,3,4,6,12,18,,,,1,,,
+15,warhead_emp,EMP Warheads,,,,,,,,,,,,,1,,,10
+16,warhead_chem,Chemical Warheads,,,,,,,,,,,,,1,,,10
+17,warhead_nuke,Nuke Warheads,,,,,,,,,,,,,1,,,20
+18,fire_suppression_system,Fire Suppression System,,,,,,,,,,,,1,,1,,
+19,security_system,Security System,,,,,,,,,,,,1,,1,,
+20,fallout_shelter,Fallout Shelter,,,,,,,,,,,,1,,1,,
+21,ews_communications_center,EWS / Communications Center,,,,,,,,,,,,1,,1,,
